@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A self-proclaimed parkour expert attempts a rooftop-to-rooftop jump to impress fellow travelers and miscalculates the distance by approximately three feet and forty stories.",
     "long": ""
   },
   "death_type": "Parkour",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "Gravity always wins."
 }
